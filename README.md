@@ -11,7 +11,7 @@ i am sunAYANA
   - sreenu
   - parvathi
     - subbareddy
-      -lucky
+      - lucky
   - charitha
   _chandra_
   ________________
